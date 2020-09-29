@@ -20,7 +20,7 @@ disqus:
   # shortname: my_disqus_shortname
   # shortname: csrhymes
 
-#theme: bulma-clean-theme
+# theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
@@ -30,6 +30,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown
   - rouge
+  - github-pages
 
 exclude: 
   - Gemfile
