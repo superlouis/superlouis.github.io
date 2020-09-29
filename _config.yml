@@ -20,6 +20,8 @@ disqus:
   # shortname: my_disqus_shortname
   # shortname: csrhymes
 
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
   - jekyll-sitemap
