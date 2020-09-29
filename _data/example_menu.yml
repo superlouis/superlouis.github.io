@@ -1,0 +1,15 @@
+- label: Example Menu
+  items:
+    - name: Home
+      link: /
+    - name: Publications
+      link: /Publications/
+      items:
+        - name: NODE-SELECT 
+          link: /NODE-SELECT/
+        - name: GATGNN
+          link: /GATGNN/
+        - name: RUS
+          link: /RUS/
+        - name: Codes
+          link: https://github.com/superlouis/

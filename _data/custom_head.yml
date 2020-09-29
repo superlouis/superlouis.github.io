@@ -1,0 +1,7 @@
+alignment: is-left
+style: is-dark
+height: is-small
+items:
+  - name: Tabs
+    pic: steph-pic.png
+    description: 'PhD Student at the University of South Carolina'

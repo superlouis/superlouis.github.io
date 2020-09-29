@@ -1,0 +1,7 @@
+alignment: is-left
+style: is-dark
+height: is-small
+items:
+  - title: Publications
+    subtitle: Explained in Simple Terms
+    icon: fa-newspaper
