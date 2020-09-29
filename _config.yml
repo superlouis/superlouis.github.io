@@ -4,7 +4,7 @@ tagline: Bulma Clean Theme
 email: SLOUIS [AT] EMAIL.SC.EDU
 description: >
   Website for Steph-Yves Louis
-baseurl: /superlouis
+baseurl: 
 url: superlouis.github.io
 permalink: pretty
 favicon: ./favicon.png
