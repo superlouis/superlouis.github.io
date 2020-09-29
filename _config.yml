@@ -5,7 +5,7 @@ email: SLOUIS [AT] EMAIL.SC.EDU
 description: >
   Website for Steph-Yves Louis
 baseurl: /superlouis
-url: superlouis/github.io
+url: superlouis.github.io
 permalink: pretty
 favicon: ./favicon.png
 # gh_sponsor: chrisrhymes
